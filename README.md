@@ -16,6 +16,20 @@ If there are no command line arguments then the program will use clippings on th
 
 * call the `webbrowser.open()` function to open the web browser
 
+## Test Address
+
+33 Aldergrove Ave, Toronto, ON M4C 1B3
+
+## Execution
+
+using the test address
+
+	python3 mapit 33 Aldergrove Ave, Toronto, ON M4C 1B3
+
+otherwise
+
+	python3 mapit ADDRESS
+
 ## References
 
 ABSP:  386
