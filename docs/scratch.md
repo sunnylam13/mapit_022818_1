@@ -27,3 +27,13 @@ Resulting output on run for address...
 	 2018-02-28 18:45:34,733 - DEBUG - ['mapit.py', '33', 'Aldergrove', 'Ave,', 'Toronto,', 'ON', 'M4C', '1B3']
 	 2018-02-28 18:45:34,733 - DEBUG - The address string after joining is:  33 Aldergrove Ave, Toronto, ON M4C 1B3
 
+## Wednesday, February 28, 2018 9:40 PM
+
+Similar programs could build on this or use this functionality...
+
+* open all links on a page in separate browser tabs
+
+* open the browser to the URL for your local weather
+
+* open several social network sites used often
+

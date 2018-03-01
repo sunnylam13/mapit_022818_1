@@ -24,11 +24,11 @@ If there are no command line arguments then the program will use clippings on th
 
 using the test address
 
-	python3 mapit 33 Aldergrove Ave, Toronto, ON M4C 1B3
+	python3 mapit.py 33 Aldergrove Ave, Toronto, ON M4C 1B3
 
 otherwise
 
-	python3 mapit ADDRESS
+	python3 mapit.py ADDRESS
 
 ## References
 
